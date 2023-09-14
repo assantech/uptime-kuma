@@ -593,7 +593,7 @@
     "Resend Notification if Down X times consecutively": "Invia di nuovo la notifica se giù X volte consecutivamente",
     "Proxy": "Proxy",
     "or": "o",
-    "statusPageRefreshIn": "Aggiorna tra: {0}",
+    "statusPageRefreshIn": "Aggiornamento tra: {0}",
     "HTTP Headers": "Intestazioni HTTP",
     "Custom": "Personalizzato",
     "Connection Type": "Tipo di connessione",
